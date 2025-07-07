@@ -21,7 +21,7 @@ The notebook includes:
 
 ## 📎 File
 
-- [`Data Science Tools and Ecosystem.ipynb`](./Data%20Science%20Tools%20and%20Ecosystem.ipynb)
+- [`Data Science Tools and Ecosystem.ipynb`](https://github.com/DoriaU22/data-science-tools-overview/blob/main/Data%20Science%20Languages%2C%20Libraries%20and%20Tools.ipynb)
 
 ## 👨‍💻 Author
 
